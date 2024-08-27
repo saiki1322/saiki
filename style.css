@@ -124,8 +124,8 @@ span {
 }
 
 .home-img img {
-    width: 13vw;
-    height: auto;
+    width: 14vw;
+    height: 14vw;
     border-radius: 50%;
     box-shadow: 0 0 15px hotpink;
     cursor: pointer;
@@ -201,3 +201,5 @@ span {
         content: "";
     }
 }
+
+
